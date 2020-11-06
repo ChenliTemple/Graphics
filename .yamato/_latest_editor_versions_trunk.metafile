@@ -9,49 +9,49 @@ editor_version_names:
 editor_versions:
   trunk_latest_internal:
     android:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8
       version: ''
     ios:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: a0daa80562c4e84069f4b477e73ab6c4b321479d
       version: ''
     linux:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: a0daa80562c4e84069f4b477e73ab6c4b321479d
       version: ''
     macos:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: a0daa80562c4e84069f4b477e73ab6c4b321479d
       version: ''
     windows:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8
       version: ''
   trunk_latest_public:
     android:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8
       version: ''
     ios:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: a0daa80562c4e84069f4b477e73ab6c4b321479d
       version: ''
     linux:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: a0daa80562c4e84069f4b477e73ab6c4b321479d
       version: ''
     macos:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8
       version: ''
     windows:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8
       version: ''
   trunk_staging:
     android:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: 320ba82284b37443f1266d6b7d0b9a76b114dfb6
       version: ''
     ios:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: a0daa80562c4e84069f4b477e73ab6c4b321479d
       version: ''
     linux:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: a0daa80562c4e84069f4b477e73ab6c4b321479d
       version: ''
     macos:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: a0daa80562c4e84069f4b477e73ab6c4b321479d
       version: ''
     windows:
-      revision: 37c5ec4c3cb13853f9074c74cbac49a232178bd8 
+      revision: 320ba82284b37443f1266d6b7d0b9a76b114dfb6
       version: ''
